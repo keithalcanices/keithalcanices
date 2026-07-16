@@ -20,5 +20,5 @@ I specialize in building full-stack applications with a focus on modern web stan
 ---
 
 ## 📫 How to reach me:
-*   **LinkedIn:** www.linkedin.com/in/keith-lowell-alcañices-75699a412
+*   **LinkedIn:** www.linkedin.com/in/keithalcanices
 *   **Email:** alcanices.keithl@gmail.com
