@@ -20,5 +20,5 @@ I specialize in building full-stack applications with a focus on modern web stan
 ---
 
 ## 📫 How to reach me:
-*   **LinkedIn:** linkedin.com/in/keithalcanices
+*   **LinkedIn:** www.linkedin.com/in/keithalcanices
 *   **Email:** alcanices.keithl@gmail.com
